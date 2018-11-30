@@ -1,4 +1,4 @@
-?php
+<?php
 	ob_start();
 	session_start();
 	$pageTitle = 'Create New Item';
@@ -215,7 +215,7 @@
 							<span class="price-tag">
 								$<span class="live-price">0</span>
 							</span>
-							<img class="img-responsive" src="img.jpg" alt="" />
+							<img class="img-responsive" src="img.png" alt="" />
 							<div class="caption">
 								<h3 class="live-title">Title</h3>
 								<p class="live-desc">Description</p>
